@@ -5,6 +5,7 @@ public class MyideaDemo {
         for(int i=0;i<10000;i++){
             System.out.println(i+"hi idea and git");
             System.out.println(i+"success!!!");
+            System.out.println(i+"lijiayin!!!");
         }
     }
 }
